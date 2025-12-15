@@ -35,7 +35,7 @@ const Footer = () => {
               <a href="https://www.linkedin.com/in/noah-fayz/" target="_blank" rel="noopener noreferrer">
                 LinkedIn
               </a>
-              <a href="mailto:Noahfayz4@gmail.com">
+              <a href="mailto:Noahfayz@umich.edu">
                 Email
               </a>
               <a href="/Noah-Fayz-Resume.pdf" target="_blank">
