@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="footer-content">
           <div className="footer-section">
             <h3>Noah Fayz</h3>
-            <p>Finance & Economics | University of Michigan</p>
+            <p>University of Michigan College of Literature, Science, and the Arts</p>
           </div>
 
           <div className="footer-section">

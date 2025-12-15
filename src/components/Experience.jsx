@@ -5,46 +5,46 @@ const Experience = () => {
   const experiences = [
     {
       title: 'Business Development Intern',
-      company: 'General Dynamics Information Technology',
-      location: 'Falls Church, VA',
-      period: 'June 2024 – August 2024',
+      company: 'American Rheinmetall',
+      location: 'Plymouth, MI',
+      period: 'May 2025 – August 2025',
       description: [
-        'Conducted market research and competitive analysis to identify new business opportunities in the defense sector',
-        'Supported proposal development for multi-million dollar government contracts',
-        'Analyzed cost structures and pricing strategies for DoD and federal civilian agency pursuits'
+        'Organize and analyze 4,400+ Excel-based product lines across multi-tiered Bills of Materials (BOMs) for complex defense vehicle systems',
+        'Identify part redundancies, pricing inefficiencies, and savings opportunities across supplier data tied to $10M+ defense contracts',
+        'Supported $25M+ in proposal development and supplier evaluation efforts, improving cost estimation accuracy by 18%'
       ]
     },
     {
       title: 'Founder',
-      company: 'Real Estate Investment (Self-Employed)',
+      company: 'Buyifi Real Estate Investment',
       location: 'Detroit, MI',
-      period: 'September 2022 – Present',
+      period: 'December 2023 – January 2025',
       description: [
-        'Sourced, analyzed, and acquired residential properties through direct-to-seller marketing campaigns',
-        'Negotiated purchase agreements and managed due diligence processes',
-        'Oversaw property rehabilitation and disposition to generate returns'
+        'Evaluated detailed financial data and property valuations, identifying new opportunities that increased portfolio returns by 20%',
+        'Conducted in-depth market research on 100+ properties, analyzing price trends and investment potential to guide strategic acquisitions',
+        'Negotiated directly with sellers and agents to secure below-market deals, optimizing up to 75% profit margins on key properties'
       ]
     },
     {
       title: 'Founder',
-      company: 'Amazon FBA E-Commerce Business',
+      company: 'Buyifi Amazon FBA',
       location: 'Detroit, MI',
-      period: 'May 2023 – May 2024',
+      period: 'January 2023 – August 2024',
       description: [
-        'Launched and scaled a product line on Amazon using FBA logistics',
-        'Managed inventory forecasting, vendor negotiations, and cost analysis',
-        'Optimized product listings and advertising to drive sales growth'
+        'Sold 300+ consumer products across 5+ SKUs, generating $5,000 in consistent monthly revenue with a 30–50% profit margin.',
+        'Scaled targeted ad campaigns with a $1,200 PPC budget, increasing conversion rates by 45% and significantly boosting sales volume.',
+        'Negotiated supplier and freight costs, reducing per-unit expenses by 20% and optimizing inventory turnover to prevent stockouts.'
       ]
     },
     {
       title: 'Quantitative Trading (Personal Project)',
-      company: 'Algorithmic Trading Development',
+      company: 'Options Algorithmic Trading Development',
       location: 'Detroit, MI',
-      period: 'January 2024 – Present',
+      period: 'January 2023 – Present',
       description: [
-        'Developed Python-based algorithmic trading strategies focused on technical indicators',
-        'Backtested strategies using historical market data and refined parameters',
-        'Applied risk management principles to control drawdowns and optimize position sizing'
+        'Built a Python-based trading algorithm using EMA crossovers, RSI, and volatility signals, producing a consistent 73% annualized return',
+        'Backtested 1,200+ strategies in ThinkorSwim and Python to optimize precise entry, exit, and risk parameters across multiple asset classes',
+        'Automated order execution and dynamic position sizing, cutting manual trading time by 95% and improving execution precision overall'
       ]
     }
   ];

@@ -7,21 +7,21 @@ const Leadership = () => {
       title: 'Founder / President',
       organization: 'Wayne Stock Trade Association',
       location: 'Detroit, MI',
-      period: 'August 2024 – Present',
+      period: 'August 2024 – December 2025',
       description: "Founded Wayne State's first student-led trading club, scaled membership, and led workshops on stock market fundamentals and options trading."
     },
     {
       title: 'Director of Operations',
       organization: 'Financial Management Association',
       location: 'Detroit, MI',
-      period: 'December 2024 - Present',
+      period: 'December 2024 - December 2025',
       description: 'Organized events and networking opportunities with industry professionals to create value for student members.'
     },
     {
       title: 'Investment Team Member',
       organization: 'Warrior Ventures',
       location: 'Detroit, MI',
-      period: 'December 2024 – Present',
+      period: 'December 2024 – December 2025',
       description: 'Researched pre-seed startups, evaluated pitch decks, and contributed to early-stage investment decisions.'
     },
     {

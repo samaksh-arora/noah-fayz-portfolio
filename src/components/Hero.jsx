@@ -23,7 +23,7 @@ const Hero = () => {
           </div>
           <div className="hero-contact">
             <span>(313) 829-4496 · </span>
-            <a href="mailto:Noahfayz4@gmail.com">Noahfayz4@gmail.com</a>
+            <a href="mailto:Noahfayz@umich.edu">Noahfayz@umich.edu</a>
             <span> · </span>
             <a href="https://www.linkedin.com/in/noah-fayz/" target="_blank" rel="noopener noreferrer">
               LinkedIn
