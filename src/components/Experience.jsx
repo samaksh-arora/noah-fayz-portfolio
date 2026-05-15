@@ -4,14 +4,39 @@ import './Experience.css';
 const Experience = () => {
   const experiences = [
     {
-      title: 'Business Development Intern',
+      title: 'Summer Analyst',
+      company: 'ID Ventures',
+      location: 'Detroit, MI',
+      period: 'May 2026 – August 2026',
+      description: [
+        'Source and screen 50+ early-stage deals weekly using market mapping, outreach, and CRM pipelines to identify high-potential opportunities.',
+        'Build 3-statement financial models and perform valuation analysis, including DCF and comps, to support ~$100K–$500K seed-stage investment decisions.',
+        'Draft 2–3 investment memos weekly and participate in 10+ pitch meetings, board discussions, and strategic diligence sessions.',
+        'Develop AI-driven workflows using Python and OpenAI APIs to automate deal sourcing and diligence, improving screening efficiency by ~30–50%.'
+      ]
+    },
+    {
+      title: 'Portfolio Manager',
+      company: 'FAYZ Capital',
+      location: 'Detroit, MI',
+      period: 'January 2023 – Present',
+      description: [
+        'Built Python-based trading models using 3+ indicators, including EMA, RSI, and volatility, to execute short-term options and equity trades systematically.',
+        'Backtested 50+ strategy iterations in ThinkorSwim across 3 asset classes to refine risk and execution rules efficiently.',
+        'Analyzed 30+ public companies using valuation and earnings metrics to support medium- and long-term positioning strategically.',
+        'Applied technical analysis across 1,000+ trades using trend, momentum, and volume data to manage downside risk consistently.'
+      ]
+    },
+    {
+      title: 'Finance / Business Development Intern',
       company: 'American Rheinmetall',
       location: 'Plymouth, MI',
       period: 'May 2025 – August 2025',
       description: [
-        'Organize and analyze 4,400+ Excel-based product lines across multi-tiered Bills of Materials (BOMs) for complex defense vehicle systems',
-        'Identify part redundancies, pricing inefficiencies, and savings opportunities across supplier data tied to $10M+ defense contracts',
-        'Supported $25M+ in proposal development and supplier evaluation efforts, improving cost estimation accuracy by 18%'
+        'Organized and analyzed 4,400+ Excel-based product lines across multi-tiered Bills of Materials (BOMs) for complex defense vehicle systems.',
+        'Identified part redundancies, pricing inefficiencies, and savings opportunities across supplier data tied to $10M+ defense contracts.',
+        'Supported $25M+ in proposal development and supplier evaluation efforts, improving cost estimation accuracy by 18%.',
+        'Streamlined cross-department reporting workflows across 5 teams, reducing manual processing time by 30% and improving data visibility.'
       ]
     },
     {
@@ -20,31 +45,10 @@ const Experience = () => {
       location: 'Detroit, MI',
       period: 'December 2023 – January 2025',
       description: [
-        'Evaluated detailed financial data and property valuations, identifying new opportunities that increased portfolio returns by 20%',
-        'Conducted in-depth market research on 100+ properties, analyzing price trends and investment potential to guide strategic acquisitions',
-        'Negotiated directly with sellers and agents to secure below-market deals, optimizing up to 75% profit margins on key properties'
-      ]
-    },
-    {
-      title: 'Founder',
-      company: 'Buyifi Amazon FBA',
-      location: 'Detroit, MI',
-      period: 'January 2023 – August 2024',
-      description: [
-        'Sold 300+ consumer products across 5+ SKUs, generating $5,000 in consistent monthly revenue with a 30–50% profit margin.',
-        'Scaled targeted ad campaigns with a $1,200 PPC budget, increasing conversion rates by 45% and significantly boosting sales volume.',
-        'Negotiated supplier and freight costs, reducing per-unit expenses by 20% and optimizing inventory turnover to prevent stockouts.'
-      ]
-    },
-    {
-      title: 'Quantitative Trading (Personal Project)',
-      company: 'Options Algorithmic Trading Development',
-      location: 'Detroit, MI',
-      period: 'January 2023 – Present',
-      description: [
-        'Built a Python-based trading algorithm using EMA crossovers, RSI, and volatility signals, producing a consistent 73% annualized return',
-        'Backtested 1,200+ strategies in ThinkorSwim and Python to optimize precise entry, exit, and risk parameters across multiple asset classes',
-        'Automated order execution and dynamic position sizing, cutting manual trading time by 95% and improving execution precision overall'
+        'Evaluated detailed financial data and property valuations, identifying new opportunities that increased portfolio returns by 20%.',
+        'Conducted in-depth market research on 100+ properties, analyzing price trends and investment potential to guide strategic acquisitions.',
+        'Negotiated directly with sellers and agents to secure below-market deals, optimizing up to 75% profit margins on key properties.',
+        'Managed property assessments and due diligence processes, ensuring compliance with all legal and financial requirements on 20+ deals.'
       ]
     }
   ];

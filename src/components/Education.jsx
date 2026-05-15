@@ -7,6 +7,7 @@ const Education = () => {
       school: 'University of Michigan',
       location: 'Ann Arbor, Michigan',
       degree: 'Bachelor of Arts, Dual Major: Mathematics of Finance and Risk Management & Economics',
+      minor: 'Minor: Entrepreneurship',
       period: 'January 2026 – May 2028 (Expected)',
       details: []
     },
@@ -17,8 +18,8 @@ const Education = () => {
       minor: 'Minor: Entrepreneurship and Innovation',
       period: 'August 2024 – December 2025',
       details: [
-        'Campus Involvement: Economic Club, Sales Innovators Association, Investment Club, Middle Eastern & South Asian Business Club, Warrior Consulting Group, Alpha Kappa Psi, Wayne Stock Trade Association, Warrior Ventures, Financial Management Association, Warriors in Accounting and Business, Ski and Snowboard Club',
-        'SEO Career Edge Participant'
+  'Campus Involvement: Economic Club, Sales Innovators Association, Investment Club, Middle Eastern & South Asian Business Club, Warrior Consulting Group, Alpha Kappa Psi, Wayne Stock Trade Association, Warrior Ventures, Financial Management Association, Warriors in Accounting and Business, Ski and Snowboard Club'
+
       ]
     }
   ];

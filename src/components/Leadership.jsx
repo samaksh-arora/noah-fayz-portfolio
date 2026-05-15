@@ -25,6 +25,13 @@ const Leadership = () => {
       description: 'Researched pre-seed startups, evaluated pitch decks, and contributed to early-stage investment decisions.'
     },
     {
+      title: 'Edge Fellowship Participant',
+      organization: 'SEO Career',
+      location: 'Online',
+      period: '2026',
+      description: 'Selected for SEO Career’s highly competitive Edge Fellowship focused on financial modeling, valuation, and exposure to sales & trading and hedge funds.'
+    },
+    {
       title: 'Participant',
       organization: 'ACG Cup Investment Banking Case Competition',
       location: 'Grand Rapids, MI',

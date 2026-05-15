@@ -11,13 +11,13 @@ const About = () => {
         
         <div className="about-text">
           <p>
-            I’m an Economics and Entrepreneurship student at the University of Michigan who learns best by building things in the real world. 
-            Over the past few years, I’ve started finance organizations, experimented with trading strategies, launched small ventures, 
-            and taken on side projects that push me to understand how money, people, and ideas actually move.
+            I’m a Mathematics of Finance and Risk Management, Economics, and Entrepreneurship student at the University of Michigan who learns best by building things in the real world. 
+            Over the past few years, I’ve started finance organizations, experimented with trading strategies, launched small ventures, and currently intern at a venture capital fund, 
+            all of which have pushed me to better understand how money, people, and ideas actually move.
           </p>
           <p>
-           I’m really interested in the space where finance, technology, and entrepreneurship overlap. I like solving practical problems, working with driven people, and turning half-formed ideas 
-           into something that actually works. This site is a place to share what I’m working on, what I’m learning along the way, and to make it easy for people to connect with me.
+            I’m especially interested in the intersection of finance, technology, and entrepreneurship. I enjoy solving practical problems, working with driven people, and turning half-formed ideas 
+            into something that actually works. This site is a place to share what I’m building, what I’m learning along the way, and to make it easy for people to connect with me.
           </p>
         </div>
       </div>
